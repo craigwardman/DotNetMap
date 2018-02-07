@@ -13,3 +13,6 @@ http://www.craigwardman.com/Blogging/BlogEntry/spatial-queries-using-entity-fram
 
 For an example of converting WKT or Proximity into an Azure Search query using an object oriented filtering approach see:
 http://www.craigwardman.com/Blogging/BlogEntry/object-oriented-azure-search-client
+
+Or for plain SQL text (example in CDSA), see:
+http://www.craigwardman.com/Blogging/BlogEntry/spatial-querying-example-in-cdsa
