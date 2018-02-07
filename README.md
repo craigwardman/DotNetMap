@@ -7,6 +7,9 @@ The client side implementations vary, but there are common themes especially fro
 
 There are a lot of concepts that be represented in re-usable C# code.  For this reason, I have created a class library of ".NET Mapping" objects and helpers, which represent the mapping concepts such as geographical points, bounding boxes, proximities, distance calculation and zoom level calculation. 
 
-For an example of converting WKT or Proximity into an Entity Framework query without requiring Microsoft.SqlServer.Types.dll see my blog post:
 
+For an example of converting WKT or Proximity into an Entity Framework query without requiring Microsoft.SqlServer.Types.dll see:
 http://www.craigwardman.com/Blogging/BlogEntry/spatial-queries-using-entity-framework-without-microsoft-sqlserver-types-dll
+
+For an example of converting WKT or Proximity into an Azure Search query using an object oriented filtering approach see:
+http://www.craigwardman.com/Blogging/BlogEntry/object-oriented-azure-search-client
